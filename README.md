@@ -1,1 +1,1 @@
-# jupyterjumpstart-exercises
+# Jupyter Jumpstart Activities
